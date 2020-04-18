@@ -22,3 +22,5 @@ Similarity task:
 Using ViSim dataset for the task
 Words pair with opposite meaning/ similar meaning on a scale judge by human
 In progress
+
+Both models have some uncleaned data that affect the evaluation task, e.g bố ~ bốbố 0.6745...
