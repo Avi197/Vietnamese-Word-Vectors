@@ -3,6 +3,15 @@ Word vectors for Vietnamese using Fasttext
 
 [Fasttext model](https://drive.google.com/open?id=1ktHmHxoqV1iab3vWDeRmiGDg9v9hGshF)
 
+Tokenized using VncoreNLP
+
+In English, the majority of words are 1 complete token
+In Vietnamese, it's the opposite, 1 token can be a word, or 2, or even 3
+e.g: 
+Beat - đánh
+Fight - đánh_nhau
+
+
 One problem in embedding Vietnamese is most of the words standalone have multiple meaning, and usually make more specific sense in phrases
 -> hard to evaluate model
 
