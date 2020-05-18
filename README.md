@@ -8,8 +8,9 @@ Tokenized using VncoreNLP
 In English, the majority of words are 1 complete token
 In Vietnamese, it's the opposite, 1 token can be a word, or 2, or even 3
 e.g: 
-Beat - đánh
-Fight - đánh_nhau
+dòng nước lũ = floodwater
+'dòng' + 'nước' + 'lũ' each is one token, total òf 3 tokens
+flood
 
 
 One problem in embedding Vietnamese is most of the words standalone have multiple meaning, and usually make more specific sense in phrases
